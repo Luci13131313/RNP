@@ -1,0 +1,304 @@
+{
+  "trackName": "Drummer1-Solo Drum",
+  "duration": 57.08,
+  "bpm": 79,
+  "beats": [
+    {
+      "time": 0.246,
+      "type": "tap"
+    },
+    {
+      "time": 0.724,
+      "type": "double"
+    },
+    {
+      "time": 0.97,
+      "type": "tap"
+    },
+    {
+      "time": 1.48,
+      "type": "tap"
+    },
+    {
+      "time": 1.78,
+      "type": "tap"
+    },
+    {
+      "time": 2.086,
+      "type": "tap"
+    },
+    {
+      "time": 3.061,
+      "type": "swipe"
+    },
+    {
+      "time": 3.864,
+      "type": "tap"
+    },
+    {
+      "time": 4.944,
+      "type": "swipe"
+    },
+    {
+      "time": 5.836,
+      "type": "tap"
+    },
+    {
+      "time": 6.707,
+      "type": "tap"
+    },
+    {
+      "time": 7.082,
+      "type": "swipe"
+    },
+    {
+      "time": 7.824,
+      "type": "tap"
+    },
+    {
+      "time": 8.596,
+      "type": "tap"
+    },
+    {
+      "time": 8.987,
+      "type": "swipe"
+    },
+    {
+      "time": 9.761,
+      "type": "tap"
+    },
+    {
+      "time": 10.604,
+      "type": "double"
+    },
+    {
+      "time": 11.53,
+      "type": "tap"
+    },
+    {
+      "time": 12.504,
+      "type": "double"
+    },
+    {
+      "time": 13.519,
+      "type": "tap"
+    },
+    {
+      "time": 14.455,
+      "type": "double"
+    },
+    {
+      "time": 15.431,
+      "type": "tap"
+    },
+    {
+      "time": 16.345,
+      "type": "double"
+    },
+    {
+      "time": 17.379,
+      "type": "tap"
+    },
+    {
+      "time": 17.866,
+      "type": "tap"
+    },
+    {
+      "time": 18.315,
+      "type": "double"
+    },
+    {
+      "time": 19.288,
+      "type": "tap"
+    },
+    {
+      "time": 20.088,
+      "type": "tap"
+    },
+    {
+      "time": 20.22,
+      "type": "double"
+    },
+    {
+      "time": 21.182,
+      "type": "double"
+    },
+    {
+      "time": 22.217,
+      "type": "double"
+    },
+    {
+      "time": 23.134,
+      "type": "swipe"
+    },
+    {
+      "time": 24.079,
+      "type": "tap"
+    },
+    {
+      "time": 25.048,
+      "type": "tap"
+    },
+    {
+      "time": 25.981,
+      "type": "tap"
+    },
+    {
+      "time": 26.907,
+      "type": "tap"
+    },
+    {
+      "time": 27.849,
+      "type": "tap"
+    },
+    {
+      "time": 28.774,
+      "type": "double"
+    },
+    {
+      "time": 29.821,
+      "type": "tap"
+    },
+    {
+      "time": 29.844,
+      "type": "hold"
+    },
+    {
+      "time": 31.695,
+      "type": "swipe"
+    },
+    {
+      "time": 32.036,
+      "type": "tap"
+    },
+    {
+      "time": 32.333,
+      "type": "double"
+    },
+    {
+      "time": 32.667,
+      "type": "swipe"
+    },
+    {
+      "time": 34.569,
+      "type": "tap"
+    },
+    {
+      "time": 35.231,
+      "type": "tap"
+    },
+    {
+      "time": 35.534,
+      "type": "tap"
+    },
+    {
+      "time": 36.467,
+      "type": "tap"
+    },
+    {
+      "time": 37.371,
+      "type": "tap"
+    },
+    {
+      "time": 37.773,
+      "type": "tap"
+    },
+    {
+      "time": 38.413,
+      "type": "tap"
+    },
+    {
+      "time": 40.539,
+      "type": "double"
+    },
+    {
+      "time": 41.014,
+      "type": "tap"
+    },
+    {
+      "time": 42.136,
+      "type": "tap"
+    },
+    {
+      "time": 42.764,
+      "type": "tap"
+    },
+    {
+      "time": 44.141,
+      "type": "tap"
+    },
+    {
+      "time": 44.716,
+      "type": "tap"
+    },
+    {
+      "time": 45.851,
+      "type": "tap"
+    },
+    {
+      "time": 46.532,
+      "type": "tap"
+    },
+    {
+      "time": 47.673,
+      "type": "tap"
+    },
+    {
+      "time": 47.938,
+      "type": "tap"
+    },
+    {
+      "time": 48.22,
+      "type": "tap"
+    },
+    {
+      "time": 48.574,
+      "type": "tap"
+    },
+    {
+      "time": 49.026,
+      "type": "swipe"
+    },
+    {
+      "time": 49.929,
+      "type": "tap"
+    },
+    {
+      "time": 50.507,
+      "type": "tap"
+    },
+    {
+      "time": 50.736,
+      "type": "tap"
+    },
+    {
+      "time": 50.895,
+      "type": "tap"
+    },
+    {
+      "time": 51.774,
+      "type": "double"
+    },
+    {
+      "time": 52.326,
+      "type": "tap"
+    },
+    {
+      "time": 53.726,
+      "type": "double"
+    },
+    {
+      "time": 54.654,
+      "type": "tap"
+    },
+    {
+      "time": 54.956,
+      "type": "double"
+    },
+    {
+      "time": 55.558,
+      "type": "tap"
+    }
+  ],
+  "noteCount": 74
+}

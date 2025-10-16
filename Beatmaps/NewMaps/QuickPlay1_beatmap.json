@@ -1,0 +1,220 @@
+{
+  "trackName": "QuickPlay1",
+  "duration": 41.959979,
+  "bpm": 80,
+  "beats": [
+    {
+      "time": 0.57,
+      "type": "swipe"
+    },
+    {
+      "time": 1.377,
+      "type": "swipe"
+    },
+    {
+      "time": 2.769,
+      "type": "hold"
+    },
+    {
+      "time": 3.856,
+      "type": "swipe"
+    },
+    {
+      "time": 4.919,
+      "type": "swipe"
+    },
+    {
+      "time": 5.881,
+      "type": "hold"
+    },
+    {
+      "time": 6.443,
+      "type": "tap"
+    },
+    {
+      "time": 6.838,
+      "type": "double"
+    },
+    {
+      "time": 7.422,
+      "type": "swipe"
+    },
+    {
+      "time": 8.133,
+      "type": "swipe"
+    },
+    {
+      "time": 9.182,
+      "type": "hold"
+    },
+    {
+      "time": 9.952,
+      "type": "tap"
+    },
+    {
+      "time": 10.392,
+      "type": "double"
+    },
+    {
+      "time": 11.279,
+      "type": "tap"
+    },
+    {
+      "time": 11.73,
+      "type": "double"
+    },
+    {
+      "time": 13.359,
+      "type": "hold"
+    },
+    {
+      "time": 14.941,
+      "type": "hold"
+    },
+    {
+      "time": 16.511,
+      "type": "tap"
+    },
+    {
+      "time": 16.786,
+      "type": "double"
+    },
+    {
+      "time": 17.177,
+      "type": "tap"
+    },
+    {
+      "time": 17.65,
+      "type": "tap"
+    },
+    {
+      "time": 18.115,
+      "type": "tap"
+    },
+    {
+      "time": 18.494,
+      "type": "tap"
+    },
+    {
+      "time": 18.905,
+      "type": "tap"
+    },
+    {
+      "time": 19.258,
+      "type": "swipe"
+    },
+    {
+      "time": 20.16,
+      "type": "swipe"
+    },
+    {
+      "time": 20.711,
+      "type": "hold"
+    },
+    {
+      "time": 21.763,
+      "type": "hold"
+    },
+    {
+      "time": 22.544,
+      "type": "hold"
+    },
+    {
+      "time": 23.406,
+      "type": "swipe"
+    },
+    {
+      "time": 24.029,
+      "type": "tap"
+    },
+    {
+      "time": 24.311,
+      "type": "tap"
+    },
+    {
+      "time": 24.835,
+      "type": "double"
+    },
+    {
+      "time": 25.207,
+      "type": "tap"
+    },
+    {
+      "time": 25.69,
+      "type": "double"
+    },
+    {
+      "time": 26.166,
+      "type": "tap"
+    },
+    {
+      "time": 26.596,
+      "type": "double"
+    },
+    {
+      "time": 26.979,
+      "type": "tap"
+    },
+    {
+      "time": 27.446,
+      "type": "tap"
+    },
+    {
+      "time": 28.142,
+      "type": "swipe"
+    },
+    {
+      "time": 28.925,
+      "type": "swipe"
+    },
+    {
+      "time": 29.968,
+      "type": "hold"
+    },
+    {
+      "time": 31.221,
+      "type": "swipe"
+    },
+    {
+      "time": 32.287,
+      "type": "swipe"
+    },
+    {
+      "time": 33.409,
+      "type": "tap"
+    },
+    {
+      "time": 33.76,
+      "type": "double"
+    },
+    {
+      "time": 34.346,
+      "type": "swipe"
+    },
+    {
+      "time": 35.749,
+      "type": "swipe"
+    },
+    {
+      "time": 36.79,
+      "type": "hold"
+    },
+    {
+      "time": 37.704,
+      "type": "tap"
+    },
+    {
+      "time": 38.31,
+      "type": "double"
+    },
+    {
+      "time": 38.906,
+      "type": "tap"
+    },
+    {
+      "time": 39.636,
+      "type": "double"
+    }
+  ],
+  "noteCount": 53
+}
