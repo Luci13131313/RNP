@@ -4,6 +4,14 @@
   "bpm": 80,
   "beats": [
     {
+      "time": 0.07,
+      "type": "tap"
+    },
+    {
+      "time": 0.27,
+      "type": "tap"
+    },
+    {
       "time": 0.57,
       "type": "swipe"
     },
@@ -211,10 +219,18 @@
       "time": 38.906,
       "type": "tap"
     },
+     {
+      "time": 39.31,
+      "type": "double"
+    },
     {
-      "time": 39.636,
+      "time": 39.606,
+      "type": "tap"
+    },
+    {
+      "time": 39.936,
       "type": "double"
     }
   ],
-  "noteCount": 53
+  "noteCount": 57
 }
