@@ -580,9 +580,17 @@
       "type": "tap"
     },
     {
+      "time": 82.489,
+      "type": "hold"
+    },
+    {
       "time": 82.746,
       "type": "double"
-    }
+    },
+    {
+      "time": 83.489,
+      "type": "hold"
+    },
   ],
-  "noteCount": 145
+  "noteCount": 146
 }
