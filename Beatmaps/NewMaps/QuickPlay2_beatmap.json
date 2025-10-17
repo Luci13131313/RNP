@@ -320,9 +320,17 @@
       "type": "swipe"
     },
     {
-      "time": 61.947,
+      "time": 62.267,
+      "type": "tap"
+    },
+    {
+      "time": 62.67,
+      "type": "tap"
+    },
+    {
+      "time": 62.947,
       "type": "hold"
     }
   ],
-  "noteCount": 80
+  "noteCount": 82
 }
